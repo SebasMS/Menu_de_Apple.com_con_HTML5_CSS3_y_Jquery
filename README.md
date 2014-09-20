@@ -10,11 +10,10 @@ jQuery also simplifies a lot of the complicated things from JavaScript, like AJA
 
 The jQuery library contains the following features:
 -HTML/DOM manipulation
--CSS manipulation
+-CSS-manipulation
 -HTML event methods
 -Effects and animations
--AJAX
--Utilities
+-AJAX-Utilities
 
 Tip: In addition, jQuery has plugins for almost any task out there.
 
